@@ -1,0 +1,5 @@
+{
+  "name": "ZenithFit - AI Fitness Coach",
+  "description": "A personalized fitness application that generates workout plans for different age groups using AI. It includes features like a workout timer, daily goal setting, tutorial videos, and weekly progress tracking.",
+  "requestFramePermissions": []
+}
